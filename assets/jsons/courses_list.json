@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "course_id": 1,
+      "course_name": "Animal"
+    },
+    {
+      "course_id": 2,
+      "course_name": "Bird"
+    },
+    {
+      "course_id": 3,
+      "course_name": "Human"
+    },
+    {
+      "course_id": 4,
+      "course_name": "Insects"
+    }
+  ]
+}
